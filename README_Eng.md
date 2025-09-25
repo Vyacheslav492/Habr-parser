@@ -1,4 +1,3 @@
-Конечно! Вот аккуратный английский перевод твоего `README.md`, готовый для GitHub:
 
 ````markdown
 # Habr Python Articles Parser
@@ -89,3 +88,4 @@ python Paper_pars.py
 ## 🔹 License
 
 MIT License
+
