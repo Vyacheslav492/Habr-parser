@@ -1,5 +1,3 @@
-Конечно! Ниже подготовлена подробная заметка `README.md` для GitHub по твоему парсеру Habr Python-хаба:
-
 ````markdown
 # Habr Python Articles Parser
 
@@ -89,3 +87,4 @@ python Paper_pars.py
 ## 🔹 Лицензия
 
 MIT License
+
