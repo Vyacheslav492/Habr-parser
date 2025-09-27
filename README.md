@@ -1,6 +1,6 @@
 # Habr Python Articles Parser
 
-This parser collects articles from the [Python hub on Habr](https://habr.com/ru/hubs/python/articles/), extracting titles, links, short descriptions, as well as adding a unique ID, article number on the page, and page number. All data is stored in a local SQLite database.
+ parser collects articles from the [Python hub on Habr](https://habr.com/ru/hubs/python/articles/), extracting titles, links, short descriptions, as well as adding a unique ID, article number on the page, and page number. All data is stored in a local SQLite database.
 
 ---
 
